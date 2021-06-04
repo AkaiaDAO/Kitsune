@@ -1,3 +1,3 @@
-# Foxp
+# 🦊 Foxp
 
-Functional and truly declarative general-purpose programming language focused on readability.
+Functional and truly declarative general-purpose Lisp programming language dialect focused on readability.
